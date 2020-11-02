@@ -1,0 +1,30 @@
+body{
+  background-color: beige;
+  font-family: 'Noto Sans', 'PT Sans', sans-serif;
+  font-size: 14px;
+  line-height: 1.2;
+  font-weight: 300;
+  box-sizing: border-box;
+  padding: 60px;
+}
+
+h1{
+  font-weight: 600;
+  margin-bottom: 30px;
+  color: darkslategrey;
+}
+
+.card-body{
+  text-align: right;
+}
+
+.card-body h2{
+  font-weight: 400;
+  color: darkslategrey;
+  text-align: left;
+}
+
+.card-body a{
+  text-align: left;
+  margin-left: 5px;
+}
